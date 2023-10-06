@@ -1,2 +1,2 @@
 #!/bin/bash
-file -h /tmp/imafile
+file --extension /tmp/imafile
