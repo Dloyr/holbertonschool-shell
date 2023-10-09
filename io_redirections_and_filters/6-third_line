@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 | tail -1 /holbertonschool-shell/io_redirections_and_filters/iacta 
+head -3 /holbertonschool-shell/io_redirections_and_filters/iacta | tail -1  
