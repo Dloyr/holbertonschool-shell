@@ -1,3 +1,2 @@
 #!/bin/bash
-wc -w $PAH
-
+echo $PATH | wc -w
