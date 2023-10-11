@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $NUM#00x ))
+export NUM= printf %df 2
