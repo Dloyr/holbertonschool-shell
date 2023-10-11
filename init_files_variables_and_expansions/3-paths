@@ -1,2 +1,3 @@
 #!/bin/bash
-wc -w PATH
+wc -w $PAH
+
