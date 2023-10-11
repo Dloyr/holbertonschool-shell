@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM= 2.314 89 printf '%.2f\n' $num
+export NUM=2.31, 89 printf '%.2f\n' $num
