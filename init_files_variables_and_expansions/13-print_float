@@ -1,2 +1,3 @@
 #!/bin/bash
-export NUM= printf %df 2
+printf "%.2f" $NUM
+
